@@ -1,0 +1,6 @@
+pycaret
+gensim
+scikit-learn
+pandas
+numpy
+jupyter
